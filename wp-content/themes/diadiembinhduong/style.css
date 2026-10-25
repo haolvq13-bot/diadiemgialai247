@@ -1,0 +1,134 @@
+/*
+Theme Name: Địa Điểm Sài Gòn - Bình Dương
+Description: Giao diện con Flatsome cho cổng thông tin danh bạ địa điểm ăn uống, nhà hàng, cafe
+Author: BinhDuong Foodie Team
+Template: flatsome
+Version: 1.0.0
+*/
+
+/* TEST CONNECTION COMMENT */
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+}
+
+/* Mobile sidebar hotfix: keep off-canvas above header. */
+@media (max-width: 849px) {
+  #header,
+  #header .header-wrapper,
+  #header .header-main,
+  .header-wrapper.stuck,
+  .stuck .header-main {
+    z-index: 20 !important;
+  }
+
+  .mfp-bg,
+  .off-canvas-overlay {
+    z-index: 2147483600 !important;
+  }
+
+  .mfp-wrap,
+  .mfp-container,
+  .mfp-content,
+  .off-canvas,
+  .off-canvas-left,
+  .off-canvas-right,
+  .mobile-sidebar,
+  .mobile-sidebar-slide,
+  #main-menu,
+  #mobile-menu {
+    z-index: 2147483647 !important;
+  }
+
+  .mfp-wrap,
+  .mobile-sidebar-slide {
+    position: fixed !important;
+  }
+
+  body:has(.mfp-wrap) #header,
+  body:has(.off-canvas.active) #header,
+  body:has(.mobile-sidebar-slide.active) #header {
+    opacity: 0 !important;
+    visibility: hidden !important;
+    pointer-events: none !important;
+  }
+
+  .mobile-sidebar-slide {
+    background: #f8fafc !important;
+  }
+
+  .mobile-sidebar-slide .sidebar-menu,
+  .mobile-sidebar-slide ul.nav-sidebar {
+    padding: 14px !important;
+  }
+
+  .mobile-sidebar-slide li {
+    margin: 2px 0 !important;
+    list-style: none !important;
+  }
+
+  .mobile-sidebar-slide li > a {
+    min-height: 42px !important;
+    padding: 10px 12px !important;
+    border-radius: 10px !important;
+    color: #334155 !important;
+    font-weight: 650 !important;
+    letter-spacing: 0 !important;
+    text-transform: none !important;
+  }
+
+  .mobile-sidebar-slide li > a:hover {
+    background: #e0edff !important;
+    color: #1d4ed8 !important;
+    transform: translateX(2px) !important;
+  }
+}
+
+/*
+Theme Name: Địa Điểm Sài Gòn - Bình Dương
+Description: Giao diện con Flatsome cho cổng thông tin danh bạ địa điểm ăn uống, nhà hàng, cafe
+Author: BinhDuong Foodie Team
+Template: flatsome
+Version: 1.0.0
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+/* Custom Header Logo Zoom (Balanced Header Sizing) */
+#logo img,
+.header-logo img,
+.header-main .logo img,
+.logo a img,
+.header-logo-link img,
+.site-title img {
+    max-height: 55px !important;
+    height: 50px !important;
+    min-height: 40px !important;
+    width: auto !important;
+    transform: scale(1.25) !important;
+    transform-origin: left center !important;
+    transition: transform 0.2s ease !important;
+}
+
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+    #logo img,
+    .header-logo img,
+    .header-main .logo img,
+    .logo a img {
+        max-height: 75px !important;
+        transform: scale(1.2) !important;
+        transform-origin: left center !important;
+    }
+}
+
+/* Hide Avatar / Account Icon in Header for Non-Admin Users */
+body:not(.admin-bar) .account-item, body:not(.admin-bar) li.account-item, body:not(.admin-bar) .header-nav .account-item, body:not(.admin-bar) .bdf-menu-account-btn, body:not(.admin-bar) a.account-link, body:not(.admin-bar) .account-icon, body:not(.admin-bar) .header-account-title, body:not(.logged-in) .account-item, body:not(.logged-in) li.account-item, body:not(.logged-in) .header-nav .account-item, body:not(.logged-in) .bdf-menu-account-btn, body:not(.logged-in) a.account-link, body:not(.logged-in) .account-icon, body:not(.logged-in) .header-account-title { display: none !important; }
+
+/* Hide footer on single location detail pages for smooth infinite scrolling experience */
+

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /cai-dat/
+
+Sitemap: https://diadiemgialai247.com/sitemap.xml

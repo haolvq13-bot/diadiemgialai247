@@ -1,0 +1,219 @@
+[
+  {
+    "name": "Tỉnh Gia Lai",
+    "code": 64,
+    "division_type": "tỉnh",
+    "codename": "gia_lai",
+    "phone_code": 269,
+    "districts": [
+      {
+        "name": "TP. Pleiku (Tất cả Phường/Xã)",
+        "code": 6400,
+        "division_type": "thành phố",
+        "codename": "pleiku",
+        "province_code": 64,
+        "wards": []
+      },
+      {
+        "name": "Phường Hội Thương (TP. Pleiku)",
+        "code": 6401,
+        "division_type": "phường",
+        "codename": "hoi_thuong",
+        "province_code": 64,
+        "wards": []
+      },
+      {
+        "name": "Phường Diên Hồng (TP. Pleiku)",
+        "code": 6402,
+        "division_type": "phường",
+        "codename": "dien_hong",
+        "province_code": 64,
+        "wards": []
+      },
+      {
+        "name": "Phường Hoa Lư (TP. Pleiku)",
+        "code": 6403,
+        "division_type": "phường",
+        "codename": "hoa_lu",
+        "province_code": 64,
+        "wards": []
+      },
+      {
+        "name": "Phường Ia Kring (TP. Pleiku)",
+        "code": 6404,
+        "division_type": "phường",
+        "codename": "ia_kring",
+        "province_code": 64,
+        "wards": []
+      },
+      {
+        "name": "Phường Yên Đỗ (TP. Pleiku)",
+        "code": 6405,
+        "division_type": "phường",
+        "codename": "yen_do",
+        "province_code": 64,
+        "wards": []
+      },
+      {
+        "name": "Phường Hội Phú (TP. Pleiku)",
+        "code": 6406,
+        "division_type": "phường",
+        "codename": "hoi_phu",
+        "province_code": 64,
+        "wards": []
+      },
+      {
+        "name": "Phường Phù Đổng (TP. Pleiku)",
+        "code": 6407,
+        "division_type": "phường",
+        "codename": "phu_dong",
+        "province_code": 64,
+        "wards": []
+      },
+      {
+        "name": "Phường Tây Sơn (TP. Pleiku)",
+        "code": 6408,
+        "division_type": "phường",
+        "codename": "tay_son",
+        "province_code": 64,
+        "wards": []
+      },
+      {
+        "name": "Phường Thống Nhất (TP. Pleiku)",
+        "code": 6409,
+        "division_type": "phường",
+        "codename": "thong_nhat",
+        "province_code": 64,
+        "wards": []
+      },
+      {
+        "name": "Phường Đống Đa (TP. Pleiku)",
+        "code": 6410,
+        "division_type": "phường",
+        "codename": "dong_da",
+        "province_code": 64,
+        "wards": []
+      },
+      {
+        "name": "Phường Thắng Lợi (TP. Pleiku)",
+        "code": 6411,
+        "division_type": "phường",
+        "codename": "thang_loi",
+        "province_code": 64,
+        "wards": []
+      },
+      {
+        "name": "Phường Yên Thế (TP. Pleiku)",
+        "code": 6412,
+        "division_type": "phường",
+        "codename": "yen_the",
+        "province_code": 64,
+        "wards": []
+      },
+      {
+        "name": "Xã Biển Hồ & Tân Sơn (TP. Pleiku)",
+        "code": 6413,
+        "division_type": "xã",
+        "codename": "bien_ho",
+        "province_code": 64,
+        "wards": []
+      },
+      {
+        "name": "Phường Trà Bá (TP. Pleiku)",
+        "code": 6414,
+        "division_type": "phường",
+        "codename": "tra_ba",
+        "province_code": 64,
+        "wards": []
+      },
+      {
+        "name": "Phường Chi Lăng (TP. Pleiku)",
+        "code": 6415,
+        "division_type": "phường",
+        "codename": "chi_lang",
+        "province_code": 64,
+        "wards": []
+      },
+      {
+        "name": "Thị xã An Khê (Gia Lai)",
+        "code": 6416,
+        "division_type": "thị xã",
+        "codename": "an_khe",
+        "province_code": 64,
+        "wards": []
+      },
+      {
+        "name": "Thị xã Ayun Pa (Gia Lai)",
+        "code": 6417,
+        "division_type": "thị xã",
+        "codename": "ayun_pa",
+        "province_code": 64,
+        "wards": []
+      },
+      {
+        "name": "Huyện Chư Păh (Gia Lai)",
+        "code": 6418,
+        "division_type": "huyện",
+        "codename": "chu_pah",
+        "province_code": 64,
+        "wards": []
+      },
+      {
+        "name": "Huyện Đak Đoa (Gia Lai)",
+        "code": 6419,
+        "division_type": "huyện",
+        "codename": "dak_doa",
+        "province_code": 64,
+        "wards": []
+      },
+      {
+        "name": "Huyện Chư Sê (Gia Lai)",
+        "code": 6420,
+        "division_type": "huyện",
+        "codename": "chu_se",
+        "province_code": 64,
+        "wards": []
+      },
+      {
+        "name": "Huyện Ia Grai (Gia Lai)",
+        "code": 6421,
+        "division_type": "huyện",
+        "codename": "ia_grai",
+        "province_code": 64,
+        "wards": []
+      },
+      {
+        "name": "Huyện Đức Cơ (Gia Lai)",
+        "code": 6422,
+        "division_type": "huyện",
+        "codename": "duc_co",
+        "province_code": 64,
+        "wards": []
+      },
+      {
+        "name": "Huyện Chư Prông (Gia Lai)",
+        "code": 6423,
+        "division_type": "huyện",
+        "codename": "chu_prong",
+        "province_code": 64,
+        "wards": []
+      },
+      {
+        "name": "Huyện Kbang (Gia Lai)",
+        "code": 6424,
+        "division_type": "huyện",
+        "codename": "kbang",
+        "province_code": 64,
+        "wards": []
+      },
+      {
+        "name": "Huyện Mang Yang (Gia Lai)",
+        "code": 6425,
+        "division_type": "huyện",
+        "codename": "mang_yang",
+        "province_code": 64,
+        "wards": []
+      }
+    ]
+  }
+]

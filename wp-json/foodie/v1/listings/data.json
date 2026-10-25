@@ -1,0 +1,1466 @@
+{
+  "success": true,
+  "total": 40,
+  "max_pages": 1,
+  "current_page": 1,
+  "items": [
+    {
+      "id": 8001,
+      "slug": "pho-kho-ngoc-son-pleiku-gia-lai",
+      "title": "Phở Khô Ngọc Sơn – Đặc Sản Phở 2 Tô Pleiku Gia Lai",
+      "excerpt": "Quán phở khô 2 tô (Phở Ngọc Sơn) lâu đời và nổi tiếng bậc nhất tại số 15 Nguyễn Thái Học, Phường Hội Thương, TP. Pleiku. Sợi phở gạo mảnh dai trộn thịt bằm hành phi giòn rụm kèm tô nước súp bò gân tái ngọt thanh chuẩn vị phố núi.",
+      "thumbnail": "/wp-content/uploads/gialai/pho-kho-ngoc-son-pleiku-gia-lai-1.jpg?v=pleiku247",
+      "permalink": "/pho-kho-ngoc-son-pleiku-gia-lai/",
+      "address": "15 Nguyễn Thái Học, Phường Hội Thương, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0269 3822 110",
+      "facebook": "https://facebook.com",
+      "price_range": "35.000đ - 60.000đ",
+      "open_hours": "06:00 - 21:00",
+      "views": 5840,
+      "categories": [
+        "Quán ăn",
+        "Ăn vặt"
+      ],
+      "category_slugs": [
+        "quan-an",
+        "an-vat"
+      ],
+      "districts": [
+        "Phường Hội Thương"
+      ],
+      "district_slugs": [
+        "hoi_thuong",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": true,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8002,
+      "slug": "pho-hong-pho-kho-gia-truyen-pleiku",
+      "title": "Phở Hồng – Phở Khô Gia Truyền Nguyễn Văn Trỗi Pleiku",
+      "excerpt": "Tiệm Phở Khô Hồng trứ danh tại 22-24 Nguyễn Văn Trỗi, Phường Hội Thương, TP. Pleiku với hơn 30 năm giữ trọn hương vị phở khô Gia Lai truyền thống, nước lèo bò trong vắt và tương đậu nhà làm đậm đà.",
+      "thumbnail": "/wp-content/uploads/gialai/pho-hong-pho-kho-gia-truyen-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/pho-hong-pho-kho-gia-truyen-pleiku/",
+      "address": "22 - 24 Nguyễn Văn Trỗi, Phường Hội Thương, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0905 423 939",
+      "facebook": "https://facebook.com",
+      "price_range": "40.000đ - 65.000đ",
+      "open_hours": "05:30 - 14:00",
+      "views": 4920,
+      "categories": [
+        "Quán ăn"
+      ],
+      "category_slugs": [
+        "quan-an"
+      ],
+      "districts": [
+        "Phường Hội Thương"
+      ],
+      "district_slugs": [
+        "hoi_thuong",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": true,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8003,
+      "slug": "nha-hang-to-nung-bien-ho-pleiku",
+      "title": "Nhà Hàng Tơ Nưng Biển Hồ – Đặc Sản Gà Nướng Cơm Lam Gia Lai",
+      "excerpt": "Không gian nhà sàn Tây Nguyên rộng lớn ngay cửa ngõ danh thắng Biển Hồ (220 Tôn Đức Thắng, TP. Pleiku), chuyên phục vụ gà đồng bào nướng lửa than, cơm lam ống tre, heo rẫy nướng và rượu cần Gia Lai.",
+      "thumbnail": "/wp-content/uploads/gialai/nha-hang-to-nung-bien-ho-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/nha-hang-to-nung-bien-ho-pleiku/",
+      "address": "220 Tôn Đức Thắng, Xã Biển Hồ, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0906 519 099",
+      "facebook": "https://facebook.com",
+      "price_range": "120.000đ - 450.000đ",
+      "open_hours": "08:30 - 22:00",
+      "views": 5310,
+      "categories": [
+        "Nhà hàng",
+        "Quán ăn"
+      ],
+      "category_slugs": [
+        "nha-hang",
+        "quan-an"
+      ],
+      "districts": [
+        "Xã Biển Hồ"
+      ],
+      "district_slugs": [
+        "bien_ho",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": true,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8004,
+      "slug": "ga-nuong-com-lam-ia-gui-pleiku",
+      "title": "Gà Nướng Cơm Lam Ia Gui – Ẩm Thực Tây Nguyên Đống Đa Pleiku",
+      "excerpt": "Địa chỉ thưởng thức Gà nướng - Cơm lam - Rượu cần chuẩn vị đồng bào Jrai ngay tại số 27 Phạm Ngọc Thạch, Phường Đống Đa, TP. Pleiku. Gà thả vườn kẹp tre nướng than củi thơm lừng.",
+      "thumbnail": "/wp-content/uploads/gialai/ga-nuong-com-lam-ia-gui-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/ga-nuong-com-lam-ia-gui-pleiku/",
+      "address": "27 Phạm Ngọc Thạch, Phường Đống Đa, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0269 3825 225",
+      "facebook": "https://facebook.com",
+      "price_range": "130.000đ - 380.000đ",
+      "open_hours": "09:00 - 22:00",
+      "views": 4180,
+      "categories": [
+        "Nhà hàng",
+        "Quán ăn"
+      ],
+      "category_slugs": [
+        "nha-hang",
+        "quan-an"
+      ],
+      "districts": [
+        "Phường Đống Đa"
+      ],
+      "district_slugs": [
+        "dong_da",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": true,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8005,
+      "slug": "am-thuc-jrai-kpa-klong-ksor-hnao-pleiku",
+      "title": "Ẩm Thực Jrai Kpă Klơng (Nghệ Nhân Ksor Hnao) – Làng Kép Pleiku",
+      "excerpt": "Không gian văn hóa và ẩm thực Jrai nguyên bản tại Làng Kép (49/18 Trần Nguyên Hãn, P. Đống Đa, TP. Pleiku) do gia đình nghệ nhân Ksor Hnao trực tiếp chế biến.",
+      "thumbnail": "/wp-content/uploads/gialai/am-thuc-jrai-kpa-klong-ksor-hnao-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/am-thuc-jrai-kpa-klong-ksor-hnao-pleiku/",
+      "address": "49/18 Trần Nguyên Hãn, Làng Kép, Phường Đống Đa, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0982 689 239",
+      "facebook": "https://facebook.com",
+      "price_range": "120.000đ - 350.000đ",
+      "open_hours": "09:00 - 22:00",
+      "views": 3650,
+      "categories": [
+        "Quán ăn",
+        "Nhà hàng"
+      ],
+      "category_slugs": [
+        "quan-an",
+        "nha-hang"
+      ],
+      "districts": [
+        "Phường Đống Đa"
+      ],
+      "district_slugs": [
+        "dong_da",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": false,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8006,
+      "slug": "quan-nha-toi-pleiku-am-thuc-sinh-thai",
+      "title": "Quán Nhà Tôi Pleiku – Ẩm Thực Sân Vườn & Hồ Cá Sinh Thái",
+      "excerpt": "Khu ẩm thực sinh thái mặt nước rộng thoáng tại 439 Ngô Quyền, Trà Đa, TP. Pleiku với những chòi gỗ mát rượi trên hồ, chuyên các món cá suối, gà nướng, lẩu cua đồng và đặc sản đồng quê.",
+      "thumbnail": "/wp-content/uploads/gialai/quan-nha-toi-pleiku-am-thuc-sinh-thai-1.jpg?v=pleiku247",
+      "permalink": "/quan-nha-toi-pleiku-am-thuc-sinh-thai/",
+      "address": "439 Ngô Quyền, Xã Trà Đa, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0269 3758 279",
+      "facebook": "https://facebook.com",
+      "price_range": "100.000đ - 350.000đ",
+      "open_hours": "09:00 - 22:30",
+      "views": 4410,
+      "categories": [
+        "Nhà hàng",
+        "Quán ăn"
+      ],
+      "category_slugs": [
+        "nha-hang",
+        "quan-an"
+      ],
+      "districts": [
+        "Xã Trà Đa"
+      ],
+      "district_slugs": [
+        "tra_da",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": true,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8007,
+      "slug": "nha-hang-thien-thanh-san-vuon-pleiku",
+      "title": "Nhà Hàng Thiên Thanh – Ẩm Thực Sân Vườn & Tiệc Gia Đình Pleiku",
+      "excerpt": "Nhà hàng sân vườn lâu năm tại Hẻm 58 Phạm Văn Đồng, Phường Hoa Lư, TP. Pleiku với không gian phòng VIP lịch sự và sân vườn xanh mát, chuyên hải sản tươi sống và đặc sản rừng núi.",
+      "thumbnail": "/wp-content/uploads/gialai/nha-hang-thien-thanh-san-vuon-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/nha-hang-thien-thanh-san-vuon-pleiku/",
+      "address": "Hẻm 58 Phạm Văn Đồng, Phường Hoa Lư, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0269 3826 209",
+      "facebook": "https://facebook.com",
+      "price_range": "120.000đ - 400.000đ",
+      "open_hours": "09:00 - 22:30",
+      "views": 3420,
+      "categories": [
+        "Nhà hàng"
+      ],
+      "category_slugs": [
+        "nha-hang"
+      ],
+      "districts": [
+        "Phường Hoa Lư"
+      ],
+      "district_slugs": [
+        "hoa_lu",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": false,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8008,
+      "slug": "nha-hang-lac-vien-lau-ga-la-e-pleiku",
+      "title": "Nhà Hàng Lạc Viên – Lẩu Gà Lá É & Ẩm Thực Phố Núi Pleiku",
+      "excerpt": "Thưởng thức nồi Lẩu gà lá é bốc khói nghi ngút giữa tiết trời se lạnh phố núi tại Nhà Hàng Lạc Viên (159 Wừu, Phường Ia Kring, TP. Pleiku). Nước lẩu ngọt thanh măng tươi, gà ta dai giòn.",
+      "thumbnail": "/wp-content/uploads/gialai/nha-hang-lac-vien-lau-ga-la-e-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/nha-hang-lac-vien-lau-ga-la-e-pleiku/",
+      "address": "159 Wừu, Phường Ia Kring, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0984 813 939",
+      "facebook": "https://facebook.com",
+      "price_range": "150.000đ - 350.000đ",
+      "open_hours": "10:00 - 22:30",
+      "views": 4290,
+      "categories": [
+        "Quán ăn",
+        "Nhà hàng"
+      ],
+      "category_slugs": [
+        "quan-an",
+        "nha-hang"
+      ],
+      "districts": [
+        "Phường Ia Kring"
+      ],
+      "district_slugs": [
+        "ia_kring",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": true,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8009,
+      "slug": "com-nieu-ngon-3-mien-hai-ba-trung-pleiku",
+      "title": "Cơm Niêu Ngon 3 Miền – Cơm Gia Đình Hải Bà Trưng Pleiku",
+      "excerpt": "Địa chỉ cơm niêu gia đình nổi tiếng ngay mặt tiền 158 Hai Bà Trưng, Phường Yên Đỗ, TP. Pleiku. Cơm niêu đập giòn rụm ăn kèm cá bống kho tộ, canh cua rau đay, thịt luộc cà pháo chuẩn vị.",
+      "thumbnail": "/wp-content/uploads/gialai/com-nieu-ngon-3-mien-hai-ba-trung-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/com-nieu-ngon-3-mien-hai-ba-trung-pleiku/",
+      "address": "158 Hai Bà Trưng, Phường Yên Đỗ, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0269 3828 811",
+      "facebook": "https://facebook.com",
+      "price_range": "65.000đ - 250.000đ",
+      "open_hours": "10:00 - 21:30",
+      "views": 3890,
+      "categories": [
+        "Quán ăn",
+        "Nhà hàng"
+      ],
+      "category_slugs": [
+        "quan-an",
+        "nha-hang"
+      ],
+      "districts": [
+        "Phường Yên Đỗ"
+      ],
+      "district_slugs": [
+        "yen_do",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": true,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8010,
+      "slug": "com-ga-hai-nam-hai-ba-trung-pleiku",
+      "title": "Cơm Gà Hải Nam Pleiku – Cơm Gà Giòn Da Gia Truyền Gia Lai",
+      "excerpt": "Quán Cơm Gà Hải Nam lâu năm tại 73 Hai Bà Trưng, Phường Yên Đỗ, TP. Pleiku nổi tiếng với hạt cơm nấu nước luộc gà vàng óng và đùi gà quay da giòn rụm.",
+      "thumbnail": "/wp-content/uploads/gialai/com-ga-hai-nam-hai-ba-trung-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/com-ga-hai-nam-hai-ba-trung-pleiku/",
+      "address": "73 Hai Bà Trưng, Phường Yên Đỗ, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0269 3883 128",
+      "facebook": "https://facebook.com",
+      "price_range": "45.000đ - 85.000đ",
+      "open_hours": "09:30 - 21:00",
+      "views": 3540,
+      "categories": [
+        "Quán ăn"
+      ],
+      "category_slugs": [
+        "quan-an"
+      ],
+      "districts": [
+        "Phường Yên Đỗ"
+      ],
+      "district_slugs": [
+        "yen_do",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": false,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8011,
+      "slug": "bo-ne-3-ngon-nguyen-thien-thuat-pleiku",
+      "title": "Bò Né 3 Ngon Pleiku – Điểm Tâm Sáng & Tối Nguyễn Thiện Thuật",
+      "excerpt": "Chảo bò né gang nóng hổi xèo xèo tại 59 Nguyễn Thiện Thuật, Phường Diên Hồng, TP. Pleiku với bò bít tết mềm ngọt, pate béo ngậy, trứng ốp la lòng đào và bánh mì giòn rụm.",
+      "thumbnail": "/wp-content/uploads/gialai/bo-ne-3-ngon-nguyen-thien-thuat-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/bo-ne-3-ngon-nguyen-thien-thuat-pleiku/",
+      "address": "59 Nguyễn Thiện Thuật, Phường Diên Hồng, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0978 903 639",
+      "facebook": "https://facebook.com",
+      "price_range": "35.000đ - 65.000đ",
+      "open_hours": "06:00 - 21:30",
+      "views": 3210,
+      "categories": [
+        "Quán ăn",
+        "Ăn vặt"
+      ],
+      "category_slugs": [
+        "quan-an",
+        "an-vat"
+      ],
+      "districts": [
+        "Phường Diên Hồng"
+      ],
+      "district_slugs": [
+        "dien_hong",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": false,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8012,
+      "slug": "lang-nuong-pleiku-nguyen-viet-xuan",
+      "title": "Làng Nướng Pleiku – BBQ & Lẩu Nướng Phố Núi Nguyễn Viết Xuân",
+      "excerpt": "Tọa độ nướng than hoa và lẩu đêm cực chill tại 326 Nguyễn Viết Xuân, Phường Hội Phú, TP. Pleiku. Đa dạng ba chỉ bò Mỹ, sườn heo bản lớn, bạch tuộc nướng sốt cay.",
+      "thumbnail": "/wp-content/uploads/gialai/lang-nuong-pleiku-nguyen-viet-xuan-1.jpg?v=pleiku247",
+      "permalink": "/lang-nuong-pleiku-nguyen-viet-xuan/",
+      "address": "326 Nguyễn Viết Xuân, Phường Hội Phú, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0905 307 221",
+      "facebook": "https://facebook.com",
+      "price_range": "90.000đ - 280.000đ",
+      "open_hours": "15:00 - 23:30",
+      "views": 3760,
+      "categories": [
+        "Quán ăn",
+        "Buffet"
+      ],
+      "category_slugs": [
+        "quan-an",
+        "buffet"
+      ],
+      "districts": [
+        "Phường Hội Phú"
+      ],
+      "district_slugs": [
+        "hoi_phu",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": true,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8013,
+      "slug": "bun-cua-thoi-co-chi-phung-hung-pleiku",
+      "title": "Bún Cua Thối Cô Chi – Đặc Sản Bún Mắm Cua Phùng Hưng Pleiku",
+      "excerpt": "Quán Bún mắm cua (Bún cua thối) Cô Chi nổi tiếng lâu đời nhất Pleiku tại số 02 Phùng Hưng, Phường Hội Thương (gần chợ Phùng Hưng). Món đặc sản gây thương nhớ của phố núi Gia Lai.",
+      "thumbnail": "/wp-content/uploads/gialai/bun-cua-thoi-co-chi-phung-hung-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/bun-cua-thoi-co-chi-phung-hung-pleiku/",
+      "address": "02 Phùng Hưng, Phường Hội Thương, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0935 912 580",
+      "facebook": "https://facebook.com",
+      "price_range": "20.000đ - 35.000đ",
+      "open_hours": "13:00 - 19:30",
+      "views": 4680,
+      "categories": [
+        "Ăn vặt",
+        "Quán ăn"
+      ],
+      "category_slugs": [
+        "an-vat",
+        "quan-an"
+      ],
+      "districts": [
+        "Phường Hội Thương"
+      ],
+      "district_slugs": [
+        "hoi_thuong",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": true,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8014,
+      "slug": "quan-nem-lui-ba-sau-cao-ba-quat-pleiku",
+      "title": "Quán Nem Lụi Bà Sáu – Lụi Nướng Gia Truyền Cao Bá Quát Pleiku",
+      "excerpt": "Thưởng thức món lụi nướng cuốn bánh tráng rau sống chấm sốt tương đậu phộng béo bùi tại Quán Bà Sáu (122 Cao Bá Quát, Phường Yên Đỗ, TP. Pleiku).",
+      "thumbnail": "/wp-content/uploads/gialai/quan-nem-lui-ba-sau-cao-ba-quat-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/quan-nem-lui-ba-sau-cao-ba-quat-pleiku/",
+      "address": "122 Cao Bá Quát, Phường Yên Đỗ, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0269 3824 512",
+      "facebook": "https://facebook.com",
+      "price_range": "25.000đ - 50.000đ",
+      "open_hours": "14:00 - 20:30",
+      "views": 3190,
+      "categories": [
+        "Ăn vặt",
+        "Quán ăn"
+      ],
+      "category_slugs": [
+        "an-vat",
+        "quan-an"
+      ],
+      "districts": [
+        "Phường Yên Đỗ"
+      ],
+      "district_slugs": [
+        "yen_do",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": false,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8015,
+      "slug": "ngoc-thach-quan-hung-vuong-pleiku-gia-lai",
+      "title": "Ngọc Thạch Quán Gia Lai – Chè Ngon & Ăn Vặt Hùng Vương Pleiku",
+      "excerpt": "Thiên đường chè bơ, chè khúc bạch, tàu hũ trân châu đường đen và đồ ăn vặt mát lạnh ngay trung tâm số 40C Hùng Vương, Phường Diên Hồng, TP. Pleiku.",
+      "thumbnail": "/wp-content/uploads/gialai/ngoc-thach-quan-hung-vuong-pleiku-gia-lai-1.jpg?v=pleiku247",
+      "permalink": "/ngoc-thach-quan-hung-vuong-pleiku-gia-lai/",
+      "address": "40C Hùng Vương, Phường Diên Hồng, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0968 234 579",
+      "facebook": "https://facebook.com",
+      "price_range": "20.000đ - 40.000đ",
+      "open_hours": "09:00 - 22:00",
+      "views": 3120,
+      "categories": [
+        "Ăn vặt"
+      ],
+      "category_slugs": [
+        "an-vat"
+      ],
+      "districts": [
+        "Phường Diên Hồng"
+      ],
+      "district_slugs": [
+        "dien_hong",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": false,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8016,
+      "slug": "kim-lee-kitchen-milk-tea-dinh-tien-hoang-pleiku",
+      "title": "Kim Lee Kitchen & Milk Tea – Trà Sữa & Ăn Vặt Đinh Tiên Hoàng Pleiku",
+      "excerpt": "Tổ hợp Trà sữa và Đồ ăn vặt Hàn Quốc nổi tiếng bậc nhất giới trẻ Pleiku tại 01A Đinh Tiên Hoàng, Phường Diên Hồng. Không gian trẻ trung, menu kimbap, tokbokki, gà sốt phô mai đa dạng.",
+      "thumbnail": "/wp-content/uploads/gialai/kim-lee-kitchen-milk-tea-dinh-tien-hoang-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/kim-lee-kitchen-milk-tea-dinh-tien-hoang-pleiku/",
+      "address": "01A Đinh Tiên Hoàng, Phường Diên Hồng, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0269 3829 668",
+      "facebook": "https://facebook.com",
+      "price_range": "25.000đ - 65.000đ",
+      "open_hours": "08:00 - 22:30",
+      "views": 3840,
+      "categories": [
+        "Trà sữa",
+        "Ăn vặt"
+      ],
+      "category_slugs": [
+        "tra-sua",
+        "an-vat"
+      ],
+      "districts": [
+        "Phường Diên Hồng"
+      ],
+      "district_slugs": [
+        "dien_hong",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": true,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8017,
+      "slug": "tin-phat-bakery-coffee-dinh-tien-hoang-pleiku",
+      "title": "Tín Phát Bakery & Coffee – Tiệm Bánh Kem & Cà Phê Lâu Đời Pleiku",
+      "excerpt": "Thương hiệu bánh kem sinh nhật, bánh ngọt Pháp và cà phê uy tín hàng đầu tại TP. Pleiku với 2 cơ sở lớn tại 20B Đinh Tiên Hoàng và 285 Phan Đình Phùng.",
+      "thumbnail": "/wp-content/uploads/gialai/tin-phat-bakery-coffee-dinh-tien-hoang-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/tin-phat-bakery-coffee-dinh-tien-hoang-pleiku/",
+      "address": "20B Đinh Tiên Hoàng, Phường Diên Hồng, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0269 3822 060",
+      "facebook": "https://facebook.com",
+      "price_range": "25.000đ - 350.000đ",
+      "open_hours": "06:00 - 22:00",
+      "views": 4150,
+      "categories": [
+        "Tiệm bánh",
+        "Bakery",
+        "Coffee"
+      ],
+      "category_slugs": [
+        "tiem-banh",
+        "bakery",
+        "coffee"
+      ],
+      "districts": [
+        "Phường Diên Hồng"
+      ],
+      "district_slugs": [
+        "dien_hong",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": true,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8018,
+      "slug": "mesa-bakery-coffee-hung-vuong-pleiku",
+      "title": "Mesa Bakery & Coffee – Bánh Ngọt Âu Á & Trà Sữa Hùng Vương Pleiku",
+      "excerpt": "Tổ hợp Bakery & Coffee hiện đại ngay mặt tiền số 49 Hùng Vương (và 47 Nguyễn Văn Trỗi), TP. Pleiku. Không gian sang trọng, bánh tươi nướng trong ngày và đồ uống đa dạng.",
+      "thumbnail": "/wp-content/uploads/gialai/mesa-bakery-coffee-hung-vuong-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/mesa-bakery-coffee-hung-vuong-pleiku/",
+      "address": "49 Hùng Vương, Phường Diên Hồng, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0269 6537 979",
+      "facebook": "https://facebook.com",
+      "price_range": "30.000đ - 300.000đ",
+      "open_hours": "06:30 - 22:30",
+      "views": 3980,
+      "categories": [
+        "Tiệm bánh",
+        "Bakery",
+        "Coffee"
+      ],
+      "category_slugs": [
+        "tiem-banh",
+        "bakery",
+        "coffee"
+      ],
+      "districts": [
+        "Phường Diên Hồng"
+      ],
+      "district_slugs": [
+        "dien_hong",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": true,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8019,
+      "slug": "tiem-tra-banh-yen-hung-vuong-pleiku",
+      "title": "Tiệm Trà Bánh Yên – Bánh Kem Thủ Công & Trà Thơm Hùng Vương Pleiku",
+      "excerpt": "Góc nhỏ bình yên dành cho tín đồ mê bánh ngọt handmade và trà sữa thơm béo tại 328 Hùng Vương (và 319 Nguyễn Viết Xuân), TP. Pleiku.",
+      "thumbnail": "/wp-content/uploads/gialai/tiem-tra-banh-yen-hung-vuong-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/tiem-tra-banh-yen-hung-vuong-pleiku/",
+      "address": "328 Hùng Vương, Phường Hội Phú, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0395 252 420",
+      "facebook": "https://facebook.com",
+      "price_range": "25.000đ - 250.000đ",
+      "open_hours": "07:30 - 22:00",
+      "views": 3410,
+      "categories": [
+        "Tiệm bánh",
+        "Trà sữa"
+      ],
+      "category_slugs": [
+        "tiem-banh",
+        "tra-sua"
+      ],
+      "districts": [
+        "Phường Hội Phú"
+      ],
+      "district_slugs": [
+        "hoi_phu",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": false,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8020,
+      "slug": "ocha-house-phan-dinh-phung-pleiku",
+      "title": "Ocha House Pleiku – Trà Sữa & Ăn Vặt Phan Đình Phùng Gia Lai",
+      "excerpt": "Quán trà sữa thiết kế trẻ trung, rộng rãi ngay tại số 29 Phan Đình Phùng, Phường Tây Sơn, TP. Pleiku với menu trà sữa kem cheese và đồ ăn vặt hấp dẫn.",
+      "thumbnail": "/wp-content/uploads/gialai/ocha-house-phan-dinh-phung-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/ocha-house-phan-dinh-phung-pleiku/",
+      "address": "29 Phan Đình Phùng, Phường Tây Sơn, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0935 778 819",
+      "facebook": "https://facebook.com",
+      "price_range": "22.000đ - 48.000đ",
+      "open_hours": "08:00 - 22:00",
+      "views": 2980,
+      "categories": [
+        "Trà sữa",
+        "Ăn vặt"
+      ],
+      "category_slugs": [
+        "tra-sua",
+        "an-vat"
+      ],
+      "districts": [
+        "Phường Tây Sơn"
+      ],
+      "district_slugs": [
+        "tay_son",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": false,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8021,
+      "slug": "hani-kafe-kitchen-to-vinh-dien-pleiku",
+      "title": "Hani Kafe & Kitchen – Cà Phê View Thung Lũng Hoàng Hôn Pleiku",
+      "excerpt": "Tọa độ săn hoàng hôn và ngắm toàn cảnh thung lũng phố núi đẹp bậc nhất Pleiku tại số 148 Tô Vĩnh Diện, Phường Hoa Lư. Không gian mở lộng gió, phục vụ cả cà phê Tây Nguyên và bữa tối lãng mạn.",
+      "thumbnail": "/wp-content/uploads/gialai/hani-kafe-kitchen-to-vinh-dien-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/hani-kafe-kitchen-to-vinh-dien-pleiku/",
+      "address": "148 Tô Vĩnh Diện, Phường Hoa Lư, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0905 881 480",
+      "facebook": "https://facebook.com",
+      "price_range": "30.000đ - 65.000đ",
+      "open_hours": "06:30 - 22:30",
+      "views": 6150,
+      "categories": [
+        "Cà phê",
+        "Coffee"
+      ],
+      "category_slugs": [
+        "ca-phe",
+        "coffee"
+      ],
+      "districts": [
+        "Phường Hoa Lư"
+      ],
+      "district_slugs": [
+        "hoa_lu",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": true,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8022,
+      "slug": "thong-farm-bistro-le-thanh-ton-pleiku",
+      "title": "Thông Farm & Bistro – Cà Phê Đồi Thông Săn Mây Phố Núi Pleiku",
+      "excerpt": "Tiệm cà phê gỗ ẩn mình giữa rừng thông xanh mát tại Hẻm 466 Lê Thánh Tôn, Phường Hội Phú, TP. Pleiku. Không gian Đà Lạt thu nhỏ giữa lòng Gia Lai, cực kỳ lý tưởng để săn mây sáng sớm.",
+      "thumbnail": "/wp-content/uploads/gialai/thong-farm-bistro-le-thanh-ton-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/thong-farm-bistro-le-thanh-ton-pleiku/",
+      "address": "Hẻm 466 Lê Thánh Tôn, Phường Hội Phú, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0935 466 889",
+      "facebook": "https://facebook.com",
+      "price_range": "30.000đ - 65.000đ",
+      "open_hours": "06:30 - 22:00",
+      "views": 5490,
+      "categories": [
+        "Cà phê",
+        "Coffee",
+        "Du lịch"
+      ],
+      "category_slugs": [
+        "ca-phe",
+        "coffee",
+        "du-lich"
+      ],
+      "districts": [
+        "Phường Hội Phú"
+      ],
+      "district_slugs": [
+        "hoi_phu",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": true,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8023,
+      "slug": "kap-bistro-kapucino-hung-vuong-pleiku",
+      "title": "KAP Bistro (Kapucino) – Cà Phê Kiến Trúc Châu Âu Hùng Vương Pleiku",
+      "excerpt": "Biểu tượng cà phê 3 tầng mang kiến trúc cổ điển Châu Âu sang trọng ngay mặt tiền số 46 Hùng Vương, Phường Diên Hồng, TP. Pleiku. Điểm hẹn tiếp khách, làm việc và check-in đẳng cấp.",
+      "thumbnail": "/wp-content/uploads/gialai/kap-bistro-kapucino-hung-vuong-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/kap-bistro-kapucino-hung-vuong-pleiku/",
+      "address": "46 Hùng Vương, Phường Diên Hồng, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0269 3826 868",
+      "facebook": "https://facebook.com",
+      "price_range": "28.000đ - 65.000đ",
+      "open_hours": "06:30 - 22:30",
+      "views": 5120,
+      "categories": [
+        "Cà phê",
+        "Coffee"
+      ],
+      "category_slugs": [
+        "ca-phe",
+        "coffee"
+      ],
+      "districts": [
+        "Phường Diên Hồng"
+      ],
+      "district_slugs": [
+        "dien_hong",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": true,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8024,
+      "slug": "findi-coffee-house-bui-du-pleiku",
+      "title": "Findi Coffee House – Không Gian Cà Phê Sân Vườn Xanh Hoa Lư Pleiku",
+      "excerpt": "Tổ hợp cà phê nhà kính và khu vườn Địa Trung Hải xanh mát tại số 01 Bùi Dự, Phường Hoa Lư, TP. Pleiku. Mọi góc nhỏ đều ngập tràn ánh sáng tự nhiên và hoa cỏ.",
+      "thumbnail": "/wp-content/uploads/gialai/findi-coffee-house-bui-du-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/findi-coffee-house-bui-du-pleiku/",
+      "address": "01 Bùi Dự, Phường Hoa Lư, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0987 412 559",
+      "facebook": "https://facebook.com",
+      "price_range": "25.000đ - 55.000đ",
+      "open_hours": "06:30 - 22:00",
+      "views": 4630,
+      "categories": [
+        "Cà phê",
+        "Coffee"
+      ],
+      "category_slugs": [
+        "ca-phe",
+        "coffee"
+      ],
+      "districts": [
+        "Phường Hoa Lư"
+      ],
+      "district_slugs": [
+        "hoa_lu",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": true,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8025,
+      "slug": "dam-coffee-tea-duong-wuu-pleiku",
+      "title": "Đậm Coffee & Tea – Trà Sữa Nướng & Cà Phê Đường Wừu Pleiku",
+      "excerpt": "Quán cà phê và trà sữa đất nung ấm áp tại 124 Wừu, Phường Ia Kring, TP. Pleiku. Nổi tiếng với món trà sữa nướng Vân Nam thơm lừng vào những tối trời lạnh phố núi.",
+      "thumbnail": "/wp-content/uploads/gialai/dam-coffee-tea-duong-wuu-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/dam-coffee-tea-duong-wuu-pleiku/",
+      "address": "124 Wừu, Phường Ia Kring, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0934 789 124",
+      "facebook": "https://facebook.com",
+      "price_range": "20.000đ - 45.000đ",
+      "open_hours": "06:30 - 22:00",
+      "views": 3290,
+      "categories": [
+        "Cà phê",
+        "Trà sữa"
+      ],
+      "category_slugs": [
+        "ca-phe",
+        "tra-sua"
+      ],
+      "districts": [
+        "Phường Ia Kring"
+      ],
+      "district_slugs": [
+        "ia_kring",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": false,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8026,
+      "slug": "jrai-cafe-homestay-le-duan-pleiku",
+      "title": "J’rai Café & Homestay – Cà Phê Phong Cách Tây Nguyên Lê Duẩn Pleiku",
+      "excerpt": "Sự giao thoa tinh tế giữa nét mộc mạc Tây Nguyên và tông màu xanh trắng hiện đại tại 369 Lê Duẩn, Phường Thắng Lợi, TP. Pleiku.",
+      "thumbnail": "/wp-content/uploads/gialai/jrai-cafe-homestay-le-duan-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/jrai-cafe-homestay-le-duan-pleiku/",
+      "address": "369 Lê Duẩn, Phường Thắng Lợi, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0914 369 779",
+      "facebook": "https://facebook.com",
+      "price_range": "25.000đ - 55.000đ",
+      "open_hours": "06:30 - 22:00",
+      "views": 3150,
+      "categories": [
+        "Cà phê",
+        "Du lịch"
+      ],
+      "category_slugs": [
+        "ca-phe",
+        "du-lich"
+      ],
+      "districts": [
+        "Phường Thắng Lợi"
+      ],
+      "district_slugs": [
+        "thang_loi",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": false,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8027,
+      "slug": "nha-khoa-anh-dung-nguyen-van-troi-pleiku",
+      "title": "Nha Khoa Anh Dũng Gia Lai – Trung Tâm Implant & Răng Sứ Uy Tín Pleiku",
+      "excerpt": "Phòng khám Nha Khoa Anh Dũng (08 - 10 Nguyễn Văn Trỗi, Phường Hội Thương, TP. Pleiku) là trung tâm Răng Hàm Mặt lâu năm và uy tín bậc nhất Gia Lai, chuyên sâu cấy ghép Implant, bọc răng sứ thẩm mỹ và chỉnh nha.",
+      "thumbnail": "/wp-content/uploads/gialai/nha-khoa-anh-dung-nguyen-van-troi-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/nha-khoa-anh-dung-nguyen-van-troi-pleiku/",
+      "address": "08 - 10 Nguyễn Văn Trỗi, Phường Hội Thương, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0269 3608 666",
+      "facebook": "https://facebook.com",
+      "price_range": "200.000đ - 25.000.000đ",
+      "open_hours": "07:30 - 19:30",
+      "views": 4890,
+      "categories": [
+        "Dịch vụ"
+      ],
+      "category_slugs": [
+        "dich-vu"
+      ],
+      "districts": [
+        "Phường Hội Thương"
+      ],
+      "district_slugs": [
+        "hoi_thuong",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": true,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8028,
+      "slug": "nha-khoa-hien-dai-nguyen-tat-thanh-pleiku",
+      "title": "Nha Khoa Hiện Đại Pleiku – Chuyên Niềng Răng & Thẩm Mỹ Nụ Cười 3D",
+      "excerpt": "Địa chỉ nha khoa công nghệ cao tại 240A Nguyễn Tất Thành, Phường Phù Đổng, TP. Pleiku. Ứng dụng máy quét dấu răng iTero 5D, thiết kế nụ cười 3D và niềng răng trả góp 0% lãi suất.",
+      "thumbnail": "/wp-content/uploads/gialai/nha-khoa-hien-dai-nguyen-tat-thanh-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/nha-khoa-hien-dai-nguyen-tat-thanh-pleiku/",
+      "address": "240A Nguyễn Tất Thành, Phường Phù Đổng, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0269 3868 268",
+      "facebook": "https://facebook.com",
+      "price_range": "200.000đ - 20.000.000đ",
+      "open_hours": "07:30 - 19:30",
+      "views": 4320,
+      "categories": [
+        "Dịch vụ"
+      ],
+      "category_slugs": [
+        "dich-vu"
+      ],
+      "districts": [
+        "Phường Phù Đổng"
+      ],
+      "district_slugs": [
+        "phu_dong",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": true,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8029,
+      "slug": "nha-khoa-viet-my-le-lai-pleiku-gia-lai",
+      "title": "Nha Khoa Việt Mỹ Gia Lai – Hệ Thống Răng Hàm Mặt Chuẩn Quốc Tế Pleiku",
+      "excerpt": "Chi nhánh chính thức của Hệ thống Nha Khoa Việt Mỹ tại số 29B Lê Lai, Phường Diên Hồng, TP. Pleiku với phòng Labo chế tác răng sứ CAD/CAM 3D ngay tại phòng khám.",
+      "thumbnail": "/wp-content/uploads/gialai/nha-khoa-viet-my-le-lai-pleiku-gia-lai-1.jpg?v=pleiku247",
+      "permalink": "/nha-khoa-viet-my-le-lai-pleiku-gia-lai/",
+      "address": "29B Lê Lai, Phường Diên Hồng, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0269 3879 899",
+      "facebook": "https://facebook.com",
+      "price_range": "150.000đ - 25.000.000đ",
+      "open_hours": "07:30 - 20:00",
+      "views": 3950,
+      "categories": [
+        "Dịch vụ"
+      ],
+      "category_slugs": [
+        "dich-vu"
+      ],
+      "districts": [
+        "Phường Diên Hồng"
+      ],
+      "district_slugs": [
+        "dien_hong",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": true,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8030,
+      "slug": "nha-khoa-sai-gon-laser-dental-tran-phu-pleiku",
+      "title": "Nha Khoa Sài Gòn Laser Dental – Thẩm Mỹ Răng Sứ Trần Phú Pleiku",
+      "excerpt": "Phòng khám Nha Khoa Sài Gòn Laser Dental tại số 35 Trần Phú, Phường Diên Hồng, TP. Pleiku chuyên điều trị nha khoa tổng quát, tẩy trắng răng Laser Whitening và phục hình răng sứ.",
+      "thumbnail": "/wp-content/uploads/gialai/nha-khoa-sai-gon-laser-dental-tran-phu-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/nha-khoa-sai-gon-laser-dental-tran-phu-pleiku/",
+      "address": "35 Trần Phú, Phường Diên Hồng, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0269 3797 999",
+      "facebook": "https://facebook.com",
+      "price_range": "150.000đ - 18.000.000đ",
+      "open_hours": "07:30 - 19:30",
+      "views": 3480,
+      "categories": [
+        "Dịch vụ"
+      ],
+      "category_slugs": [
+        "dich-vu"
+      ],
+      "districts": [
+        "Phường Diên Hồng"
+      ],
+      "district_slugs": [
+        "dien_hong",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": false,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8031,
+      "slug": "vien-tham-my-an-an-spa-phan-dinh-phung-pleiku",
+      "title": "Viện Thẩm Mỹ An An (An An Spa) – Chăm Sóc Sắc Đẹp Hàng Đầu Gia Lai",
+      "excerpt": "Trung tâm thẩm mỹ công nghệ cao và Spa trị liệu quy mô lớn lâu năm tại 126 Phan Đình Phùng, Phường Tây Sơn, TP. Pleiku. Chuyên điều trị mụn - nám - sẹo rỗ chuẩn Y khoa và massage dưỡng sinh.",
+      "thumbnail": "/wp-content/uploads/gialai/vien-tham-my-an-an-spa-phan-dinh-phung-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/vien-tham-my-an-an-spa-phan-dinh-phung-pleiku/",
+      "address": "126 Phan Đình Phùng, Phường Tây Sơn, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0269 2227 789",
+      "facebook": "https://facebook.com",
+      "price_range": "250.000đ - 5.000.000đ",
+      "open_hours": "08:00 - 20:00",
+      "views": 5240,
+      "categories": [
+        "Dịch vụ"
+      ],
+      "category_slugs": [
+        "dich-vu"
+      ],
+      "districts": [
+        "Phường Tây Sơn"
+      ],
+      "district_slugs": [
+        "tay_son",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": true,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8032,
+      "slug": "tham-my-vien-seoul-center-nguyen-tat-thanh-pleiku",
+      "title": "Thẩm Mỹ Viện Seoul Center Gia Lai – Làm Đẹp Chuẩn 5 Sao Pleiku",
+      "excerpt": "Chi nhánh chính thức của Thẩm Mỹ Viện Seoul Center tại 49 Nguyễn Tất Thành, Phường Hoa Lư, TP. Pleiku với không gian sang trọng, chuyên trẻ hóa da, tắm trắng phi thuyền và phun xăm thẩm mỹ.",
+      "thumbnail": "/wp-content/uploads/gialai/tham-my-vien-seoul-center-nguyen-tat-thanh-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/tham-my-vien-seoul-center-nguyen-tat-thanh-pleiku/",
+      "address": "49 Nguyễn Tất Thành, Phường Hoa Lư, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0938 453 123",
+      "facebook": "https://facebook.com",
+      "price_range": "300.000đ - 8.000.000đ",
+      "open_hours": "08:30 - 20:00",
+      "views": 4610,
+      "categories": [
+        "Dịch vụ"
+      ],
+      "category_slugs": [
+        "dich-vu"
+      ],
+      "districts": [
+        "Phường Hoa Lư"
+      ],
+      "district_slugs": [
+        "hoa_lu",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": true,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8033,
+      "slug": "mian-beauty-clinic-spa-tran-phu-pleiku",
+      "title": "Mi'An Beauty & Clinic Spa – Trẻ Hóa Da & Thẩm Mỹ Trần Phú Pleiku",
+      "excerpt": "Địa chỉ chăm sóc da chuyên sâu, điều trị nám tàn nhang và phun xăm thẩm mỹ uy tín tại 273 Trần Phú, Phường Diên Hồng, TP. Pleiku.",
+      "thumbnail": "/wp-content/uploads/gialai/mian-beauty-clinic-spa-tran-phu-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/mian-beauty-clinic-spa-tran-phu-pleiku/",
+      "address": "273 Trần Phú, Phường Diên Hồng, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0901 111 579",
+      "facebook": "https://facebook.com",
+      "price_range": "200.000đ - 4.500.000đ",
+      "open_hours": "08:30 - 20:00",
+      "views": 3740,
+      "categories": [
+        "Dịch vụ"
+      ],
+      "category_slugs": [
+        "dich-vu"
+      ],
+      "districts": [
+        "Phường Diên Hồng"
+      ],
+      "district_slugs": [
+        "dien_hong",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": false,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8034,
+      "slug": "heny-beauty-spa-nguyen-trai-pleiku",
+      "title": "Heny Beauty Spa Gia Lai – Chăm Sóc Da & Dưỡng Sinh Nguyễn Trãi Pleiku",
+      "excerpt": "Không gian Spa yên tĩnh, thư giãn nhẹ nhàng tại 56B Nguyễn Trãi, Phường Yên Đỗ, TP. Pleiku chuyên trị mụn chuẩn Y khoa và gội đầu dưỡng sinh.",
+      "thumbnail": "/wp-content/uploads/gialai/heny-beauty-spa-nguyen-trai-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/heny-beauty-spa-nguyen-trai-pleiku/",
+      "address": "56B Nguyễn Trãi, Phường Yên Đỗ, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0949 717 079",
+      "facebook": "https://facebook.com",
+      "price_range": "180.000đ - 3.000.000đ",
+      "open_hours": "08:30 - 19:30",
+      "views": 3320,
+      "categories": [
+        "Dịch vụ"
+      ],
+      "category_slugs": [
+        "dich-vu"
+      ],
+      "districts": [
+        "Phường Yên Đỗ"
+      ],
+      "district_slugs": [
+        "yen_do",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": false,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8035,
+      "slug": "danh-thang-bien-ho-pleiku-ho-to-nung-gia-lai",
+      "title": "Danh Thắng Biển Hồ Pleiku (Hồ Tơ Nưng) – Đôi Mắt Phố Núi Gia Lai",
+      "excerpt": "Biểu tượng du lịch nổi tiếng nhất tỉnh Gia Lai cách trung tâm TP. Pleiku 7km trên đường Tôn Đức Thắng. Hồ nước ngọt tự nhiên rộng hơn 220ha nằm trên miệng núi lửa cổ hàng triệu năm.",
+      "thumbnail": "/wp-content/uploads/gialai/danh-thang-bien-ho-pleiku-ho-to-nung-gia-lai-1.jpg?v=pleiku247",
+      "permalink": "/danh-thang-bien-ho-pleiku-ho-to-nung-gia-lai/",
+      "address": "Đường Tôn Đức Thắng, Xã Biển Hồ, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0269 3824 812",
+      "facebook": "https://facebook.com",
+      "price_range": "10.000đ - 20.000đ",
+      "open_hours": "06:00 - 18:30",
+      "views": 7850,
+      "categories": [
+        "Du lịch"
+      ],
+      "category_slugs": [
+        "du-lich"
+      ],
+      "districts": [
+        "Xã Biển Hồ"
+      ],
+      "district_slugs": [
+        "bien_ho",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": true,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8036,
+      "slug": "tien-son-pleiku-homestay-tan-son-gia-lai",
+      "title": "Tiên Sơn Pleiku Homestay – Nghỉ Dưỡng Nhà Gỗ Sinh Thái Gia Lai",
+      "excerpt": "Khu homestay nghỉ dưỡng nhà gỗ mái vòm giữa vườn cây xanh và hồ bơi ngoài trời tại Xã Tân Sơn, TP. Pleiku (gần Biển Hồ Chè & Chư Đăng Ya).",
+      "thumbnail": "/wp-content/uploads/gialai/tien-son-pleiku-homestay-tan-son-gia-lai-1.jpg?v=pleiku247",
+      "permalink": "/tien-son-pleiku-homestay-tan-son-gia-lai/",
+      "address": "Thôn 3, Xã Tân Sơn, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0935 889 123",
+      "facebook": "https://facebook.com",
+      "price_range": "350.000đ - 850.000đ/đêm",
+      "open_hours": "Mở cửa 24/7",
+      "views": 4120,
+      "categories": [
+        "Du lịch"
+      ],
+      "category_slugs": [
+        "du-lich"
+      ],
+      "districts": [
+        "Xã Tân Sơn"
+      ],
+      "district_slugs": [
+        "bien_ho",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": true,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8037,
+      "slug": "he-thong-truyen-thong-quang-ba-dia-diem-gia-lai-247",
+      "title": "Hệ Thống Truyền Thông & Quảng Bá Địa Điểm Gia Lai 247 (Mr. Hảo)",
+      "excerpt": "Đơn vị chủ quản Cổng thông tin Địa Điểm Gia Lai 247 do Mr. Lê Vũ Quang Hảo điều hành tại TP. Pleiku. Chuyên truyền thông, gắn tích V Vàng uy tín, SEO Google Maps và quảng bá quán ăn, cafe, doanh nghiệp tại Gia Lai.",
+      "thumbnail": "/wp-content/uploads/gialai/he-thong-truyen-thong-quang-ba-dia-diem-gia-lai-247-1.jpg?v=pleiku247",
+      "permalink": "/he-thong-truyen-thong-quang-ba-dia-diem-gia-lai-247/",
+      "address": "Trung tâm TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0937 872 631",
+      "facebook": "https://facebook.com",
+      "price_range": "77.000đ - 2.500.000đ",
+      "open_hours": "07:30 - 22:00",
+      "views": 8420,
+      "categories": [
+        "Công ty",
+        "Dịch vụ"
+      ],
+      "category_slugs": [
+        "cong-ty",
+        "dich-vu"
+      ],
+      "districts": [
+        "Phường Diên Hồng"
+      ],
+      "district_slugs": [
+        "dien_hong",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": true,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8038,
+      "slug": "cong-ty-thiet-ke-xay-dung-nha-dep-pho-nui-pleiku",
+      "title": "Công Ty TNHH Thiết Kế & Xây Dựng Nhà Đẹp Phố Núi Gia Lai",
+      "excerpt": "Đơn vị chuyên thiết kế kiến trúc và thi công xây dựng nhà phố, biệt thự mái Nhật trọn gói (chìa khóa trao tay) uy tín tại 63/2 Hà Huy Tập & 204 Tăng Bạt Hổ, TP. Pleiku.",
+      "thumbnail": "/wp-content/uploads/gialai/cong-ty-thiet-ke-xay-dung-nha-dep-pho-nui-pleiku-1.jpg?v=pleiku247",
+      "permalink": "/cong-ty-thiet-ke-xay-dung-nha-dep-pho-nui-pleiku/",
+      "address": "63/2 Hà Huy Tập, Phường Yên Thế, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0976 344 149",
+      "facebook": "https://facebook.com",
+      "price_range": "Tư vấn & Báo giá trọn gói",
+      "open_hours": "07:30 - 17:30",
+      "views": 4250,
+      "categories": [
+        "Công ty",
+        "Dịch vụ"
+      ],
+      "category_slugs": [
+        "cong-ty",
+        "dich-vu"
+      ],
+      "districts": [
+        "Phường Yên Thế"
+      ],
+      "district_slugs": [
+        "yen_the",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": true,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8039,
+      "slug": "cong-ty-kien-truc-noi-that-kitocom-pleiku-gia-lai",
+      "title": "Công Ty TNHH Kiến Trúc & Nội Thất KITOCOM Pleiku Gia Lai",
+      "excerpt": "Chuyên thiết kế & thi công trọn gói nội thất nhà phố, biệt thự, quán cà phê, showroom và văn phòng cao cấp tại Lô 2-230 Nguyễn Tất Thành, Phường Phù Đổng, TP. Pleiku.",
+      "thumbnail": "/wp-content/uploads/gialai/cong-ty-kien-truc-noi-that-kitocom-pleiku-gia-lai-1.jpg?v=pleiku247",
+      "permalink": "/cong-ty-kien-truc-noi-that-kitocom-pleiku-gia-lai/",
+      "address": "Lô 2-230 Nguyễn Tất Thành, Phường Phù Đổng, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0909 096 077",
+      "facebook": "https://facebook.com",
+      "price_range": "Theo diện tích thi công",
+      "open_hours": "07:30 - 17:30",
+      "views": 3890,
+      "categories": [
+        "Công ty",
+        "Dịch vụ"
+      ],
+      "category_slugs": [
+        "cong-ty",
+        "dich-vu"
+      ],
+      "districts": [
+        "Phường Phù Đổng"
+      ],
+      "district_slugs": [
+        "phu_dong",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": true,
+      "date": "24/10/2026"
+    },
+    {
+      "id": 8040,
+      "slug": "viet-architect-group-tang-bat-ho-pleiku-gia-lai",
+      "title": "Việt Architect Group – Văn Phòng Thiết Kế Kiến Trúc Tăng Bạt Hổ Pleiku",
+      "excerpt": "Văn phòng tư vấn thiết kế kiến trúc, kết cấu, hồ sơ xin phép xây dựng và thi công trọn gói uy tín tại 204 Tăng Bạt Hổ, Phường Yên Đỗ, TP. Pleiku.",
+      "thumbnail": "/wp-content/uploads/gialai/viet-architect-group-tang-bat-ho-pleiku-gia-lai-1.jpg?v=pleiku247",
+      "permalink": "/viet-architect-group-tang-bat-ho-pleiku-gia-lai/",
+      "address": "204 Tăng Bạt Hổ, Phường Yên Đỗ, TP. Pleiku, Tỉnh Gia Lai",
+      "phone": "0989 149 805",
+      "facebook": "https://facebook.com",
+      "price_range": "Tư vấn thiết kế trọn gói",
+      "open_hours": "07:30 - 17:30",
+      "views": 3560,
+      "categories": [
+        "Công ty",
+        "Dịch vụ"
+      ],
+      "category_slugs": [
+        "cong-ty",
+        "dich-vu"
+      ],
+      "districts": [
+        "Phường Yên Đỗ"
+      ],
+      "district_slugs": [
+        "yen_do",
+        "pleiku"
+      ],
+      "provinces": [
+        "Tỉnh Gia Lai"
+      ],
+      "province_slugs": [
+        "gia_lai"
+      ],
+      "is_vip": false,
+      "date": "24/10/2026"
+    }
+  ]
+}
